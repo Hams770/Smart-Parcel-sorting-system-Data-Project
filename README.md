@@ -19,12 +19,12 @@ To run the Smart Parcel Sorting System, ensure:
 
 SmartParcelSortingSystem/
 │── src/
-│ ├── queues.cpp # Manages parcel queue operations
-│ ├── Stack project.cpp # Implements stack-based batch reversal
+│ ├── queues parcel.cpp # Manages parcel queue operations
+│ ├── Stack.cpp # Implements stack-based batch reversal
 │ ├── array_storage.cpp # Handles sorting with arrays 
 │ ├── linked_list_storage.cpp # Handles sorting with linked lists
-│ ├── bonus tree based hierarchy for region-city-zone classification.cpp # Classifies parcels using a tree-based structure
-│── fullcode.cpp # the full code
+│ ├── tree.cpp # Classifies parcels using a tree-based structure
+│── main.cpp # Main entry point
 │── README.md # Project documentation
 
 ## Usage Instructions
